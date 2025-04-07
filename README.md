@@ -19,8 +19,6 @@ I design and maintain scalable **ETL pipelines** and build data solutions using:
 
 🧠 I focus on building **data-driven products**, automating dashboards, and helping businesses uncover **insights** from raw data.
 
-🛠️ Currently upskilling with:
-- 📘 `DP-900`, `DP-700`, `AZ-305`, and `Databricks Certified Data Engineer Associate`
 
 ---
 
@@ -33,7 +31,7 @@ I design and maintain scalable **ETL pipelines** and build data solutions using:
 
 ### ⚙️ Languages and Tools:
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,python,sql,postgres,mysql,databricks,tableau,git,linux,powershell,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=azure,python,sql,postgres,mysql,databricks,tableau,git,Apache airflow,vscode" />
 </p>
 
 ---
