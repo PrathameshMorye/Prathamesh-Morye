@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Data Engineer | Azure | SQL | Databricks | Tableau | Python</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,python,sql,postgres,mysql,databricks,tableau,git,linux,powershell,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=azure,python,sql,postgres,mysql,databricks,tableau,git,linux,powershell,vscode" />
 </p>
 
 ---
@@ -29,7 +29,7 @@ I design and maintain scalable **ETL pipelines** and build data solutions using:
 
 ### ⚙️ Languages and Tools:
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,python,sql,postgres,mysql,databricks,tableau,git,Apache airflow,vscode" />
+  <img src="https://skillicons.dev/icons?i=azure,python,sql,postgres,mysql,databricks,tableau,git,vscode" />
 </p>
 
 ---
